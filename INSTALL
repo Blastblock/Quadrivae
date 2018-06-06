@@ -1,0 +1,9 @@
+Building Quadrivae
+
+See doc/readme-qt.rst for instructions on building Quadrivae-Qt,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of Quadrivae.
+
+See doc/build-*.txt for instructions on building quadrivaed,
+the intended-for-services, no-graphical-interface, reference
+implementation of Quadrivae.
